@@ -9,6 +9,6 @@ area_info:
 # [edit] enter your district code or pincode
   __district_code : "247"
   __pincode : "831001"
-  
+
 age_limit:
   age_limit : [18]

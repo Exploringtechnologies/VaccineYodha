@@ -1,5 +1,5 @@
 email:
-  sent_from : "1998amanahuja@gmail.com" 
+  sent_from : "1998amanahuja@gmail.com"
   email_password : "amanisgreat"
 
   # [edit] enter receiver email details
@@ -7,7 +7,7 @@ email:
 
 area_info:
 # [edit] enter your district code or pincode
-  __district_code : "247" 
+  __district_code : "247"
   __pincode : "831001"
   
 age_limit:
